@@ -1,4 +1,4 @@
-# Segundo Projeto formação Full Stack Alura + Grupo Boticario: Construindo um site Responsivo Institucional Alura
+# Quarto Projeto formação Full Stack Alura + Grupo Boticario: Construindo um site Responsivo Institucional Alura
 
 ### Descrição de projeto:
 O projeto realizado durante o curso consistiu no desenvolvimento de uma interface web para uma site que fosse responsivo para tres tripos de dispositivos: Smartphone, Tablet e Desktop. O resultado pode ser conferido abaixo:
